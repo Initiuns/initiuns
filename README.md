@@ -19,4 +19,4 @@ Meu nome e Felipe Assis e tenho 23 anos, estou trabalhando atualmente como Desen
 
 ### Meu LinkeDin: ###
 
-![LinkeDIn](https://img.shields.io/static/v1?label=LinkeDin&message=Felipe&color=blue&style=for-the-badge&link=https://www.linkedin.com/in/felipe-assis-de-souza-8a810515b/&logo=LINKEDIN)
+![Linkedin_badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&https://www.linkedin.com/in/felipe-assis-de-souza-8a810515b)
