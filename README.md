@@ -14,10 +14,10 @@ Meu nome e Felipe Assis e tenho 23 anos, estou trabalhando atualmente como Desen
 * **C#**
 * **ASP.Net Core**
 * **SQL Server**
-* * **VueJS**
-* * **Axios**
-* * **Express**
-* * **NodeJS**
+* **VueJS**
+* **Axios**
+* **Express**
+* **NodeJS**
 * **ReactJS**
 * **React Native**
 
