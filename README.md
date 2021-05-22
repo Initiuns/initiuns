@@ -11,6 +11,7 @@ Meu nome e Felipe Assis e tenho 24 anos, estou trabalhando atualmente como Desen
 * **HTML5**
 * **CSS3**
 * **JavaScript**
+* **TypeScript**
 * **C#**
 * **ASP.Net Core**
 * **SQL Server**
